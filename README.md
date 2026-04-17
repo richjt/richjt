@@ -1,16 +1,27 @@
-## Hi there 👋
+# Richard Turner
 
-<!--
-**richjt/richjt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quantitative researcher focused on systematic investing, factor models, portfolio construction, and research engineering.
 
-Here are some ideas to get you started:
+I am currently building a practical Python implementation of ideas from **Giuseppe A. Paleologo’s _The Elements of Quantitative Investing_**, with an emphasis on transparent methodology, reproducible research, and portfolio applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current project
+
+### [The Elements of Quantitative Investing — implementation project](https://github.com/richjt/teoqi)
+
+This project is a hands-on implementation of key ideas from *The Elements of Quantitative Investing*, including:
+
+- building factor exposure matrices
+- estimating the model  
+
+$$\mathbf{r_t} = \mathbf{B}\mathbf(f_t} + \boldsymbol{\epsilon_t}$$
+
+- constructing factor and residual covariance matrices
+
+## Featured repository
+
+- [teoqi](https://github.com/richjt/teoqi) — implementation work based on *The Elements of Quantitative Investing*
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/richjturner)
+
