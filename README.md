@@ -13,7 +13,7 @@ This project is a hands-on implementation of key ideas from *The Elements of Qua
 - building factor exposure matrices
 - estimating the model  
 
-$$\mathbf{r_t} = \mathbf{B}\mathbf(f_t} + \boldsymbol{\epsilon_t}$$
+$$\mathbf{r_t} = \mathbf{B}\mathbf{f_t} + \boldsymbol{\epsilon_t}$$
 
 - constructing factor and residual covariance matrices
 
