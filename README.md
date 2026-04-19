@@ -1,6 +1,6 @@
 # Richard Turner
 
-Quantitative researcher focused on systematic investing, risk modelling factor models, portfolio construction.
+Quantitative researcher focused on systematic investing, risk modelling, factor models, portfolio construction.
 
 ## What I'm working on
 
